@@ -1,7 +1,8 @@
 # Made by Jam
 photography • videography • AV • tools for creatives
 
-![cover](assets/cover.jpg)
+<img width="553" height="265" alt="Primary-Cream" src="https://github.com/user-attachments/assets/07b07c90-c160-482a-afa6-f2173208d5b6" />
+
 
 Weddings • Elopements • Engagements • Lifestyle
 
@@ -14,20 +15,18 @@ What we do
 - Custom tooling: scripts, apps, and automations that streamline field work
 
 Featured
-- Portfolio — https://your-portfolio.example
-- Instagram — https://instagram.com/yourhandle
-- Services & booking — https://your-site.example/book
+- [Portfolio](https://www.madebyjamstudios.com/wedding-photography-and-videography)
+- [Instagram](https://www.instagram.com/madebyjamstudios/)
+- [Services & booking](https://www.madebyjamstudios.com/wedding-photo-video-packages)
 
 Code projects (we use these in our work)
-- booking-tools — automates availability and client intake (link to repo)
-- edit-pipeline — quick export presets + metadata sync (link to repo)
-- field-control — simple on-site utilities for camera/gear (link to repo)
+- [jammonitor](https://github.com/madebyjamstudios/jammonitor) — OpenWrt/OMR LuCI dashboard for multi-WAN health, routing, and bandwidth (link to repo)
 
 Testimonials
 “Working with Made by Jam was one of the best decisions we made. They blended into the day and captured everything honestly.” — Benjamin & Deborah
 
 Book
-Email — hello@yourdomain.com  
-Website — https://your-site.example
+Email — madebyjamstudios@gmail.com
+Website — https://www.madebyjamstudios.com/
 
 No fluff. Just the good stuff.
