@@ -19,13 +19,13 @@ We’re a photographer + videographer duo (Atlanta). We document real moments �
 - [Services & booking](https://www.madebyjamstudios.com/wedding-photo-video-packages)
 
 **Code projects (we use these in our work)**
-- [jammonitor](https://github.com/madebyjamstudios/jammonitor) — OpenWrt/OMR LuCI dashboard for multi-WAN health, routing, and bandwidth (link to repo)
+- [jammonitor](https://github.com/madebyjamstudios/jammonitor) — OpenWrt/OMR LuCI dashboard for multi-WAN health, routing, and bandwidth
 
 **Testimonials**
 “Working with Made by Jam was one of the best decisions we made. They blended into the day and captured everything honestly.” — Benjamin & Deborah
 
 **Book**
-- Email — madebyjamstudios@gmail.com
-- Website — https://www.madebyjamstudios.com/
+- [Email](mailto:madebyjamstudios@gmail.com)
+- [Website](https://www.madebyjamstudios.com/)
 
-### No fluff. Just the good stuff.
+**No fluff. Just the good stuff.**
