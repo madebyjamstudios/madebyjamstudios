@@ -21,6 +21,7 @@ We're a photographer + videographer duo based in Atlanta. We document real momen
 **Code projects**
 
 - [jammonitor](https://github.com/madebyjamstudios/jammonitor) — OpenWrt/OMR LuCI dashboard for multi-WAN health, routing, and bandwidth
+- [Ninja Timer](https://github.com/madebyjamstudios/ninja-timer) — Professional countdown timer with customizable display for broadcasts and live events
 
 **Testimonials**
 
