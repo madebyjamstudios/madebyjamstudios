@@ -20,6 +20,7 @@ We're a photographer + videographer duo based in Atlanta. We document real momen
 
 **Code projects**
 
+- [JamCrew.io](https://github.com/madebyjamstudios/jamcrew.io) — Multi-tenant SaaS platform for live event crew management
 - [Jambos Inventory](https://github.com/madebyjamstudios/jambos-inventory) — Inventory management system for Jambos, a nonprofit that collects and distributes children's pajamas
 - [jammonitor](https://github.com/madebyjamstudios/jammonitor) — OpenWrt/OMR LuCI dashboard for multi-WAN health, routing, and bandwidth
 - [Ninja Timer](https://github.com/madebyjamstudios/ninja-timer) — Professional countdown timer with customizable display for broadcasts and live events
