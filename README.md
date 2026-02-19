@@ -20,6 +20,7 @@ We're a photographer + videographer duo based in Atlanta. We document real momen
 
 **Code projects**
 
+- [SweeneySnap](https://github.com/mariosweeneyandsons/sweeneysnap) — Live event selfie wall — guests snap, it hits the big screen in real time
 - [JamCrew.io](https://github.com/madebyjamstudios/jamcrew.io) — Multi-tenant SaaS platform for live event crew management
 - [Jambos Inventory](https://github.com/madebyjamstudios/jambos-inventory) — Inventory management system for Jambos, a nonprofit that collects and distributes children's pajamas
 - [jammonitor](https://github.com/madebyjamstudios/jammonitor) — OpenWrt/OMR LuCI dashboard for multi-WAN health, routing, and bandwidth
